@@ -1,6 +1,6 @@
 //  Nama File : Kucing.java
 //  Deskripsi : Program untuk realisasi kelas Kucing yang merupakan subclass dari kelas abstrak Anabul, dengan implementasi metode gerak() dan bersuara() sesuai karakteristik kucing.
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat : Ganendra Satya Sindhunata = 24060124120025
 //  Tanggal : 25 April 2026
 
 public class Kucing extends Anabul {
