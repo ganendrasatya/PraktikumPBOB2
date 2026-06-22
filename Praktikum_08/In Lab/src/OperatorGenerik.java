@@ -1,6 +1,6 @@
 //  Nama File : OperatorGenerik.java
 //  Deskripsi : Program untuk membuat kelas OperatorGenerik yang berisi prosedur Tukar untuk menukar nilai dari dua objek generik, serta fungsi Bobot2 untuk menghitung total bobot dari dua objek Kucing.
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat : Ganendra Satya Sindhunata = 24060124120025
 //  Tanggal : 1 Mei 2026
 
 public class OperatorGenerik {
