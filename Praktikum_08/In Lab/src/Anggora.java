@@ -1,6 +1,6 @@
 //  Nama File : Anggora.java
 //  Deskripsi : Subkelas Anggora yang merupakan jenis kucing dengan implementasi metode gerak() dan bersuara() sesuai karakteristik kucing Anggora.
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat : Ganendra Satya Sindhunata - 24060124120025
 //  Tanggal : 1 Mei 2026
 
 public class Anggora extends Kucing {
