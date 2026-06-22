@@ -1,6 +1,6 @@
 //  Nama File : Burung.java
 //  Deskripsi : Program untuk realisasi kelas Burung yang merupakan subclass dari kelas abstrak Anabul, dengan implementasi metode gerak() dan bersuara() sesuai karakteristik burung.
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat :Ganendra Satya Sindhunata = 24060124120025
 //  Tanggal : 25 April 2026
 
 public class Burung extends Anabul {
