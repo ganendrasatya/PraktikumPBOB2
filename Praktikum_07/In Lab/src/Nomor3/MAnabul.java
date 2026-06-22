@@ -1,6 +1,6 @@
 //  Nama File : MAnabul.java
 //  Deskripsi : Program untuk penggunaan kelas abstrak Anabul dan subclass-subclassnya (Anjing, Kucing, Burung) dengan membuat objek dari masing-masing kelas dan memanggil metode gerak() dan bersuara() untuk menunjukkan karakteristik masing-masing hewan.
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat : Ganendra Satya Sindhunata - 24060124120025
 //  Tanggal : 25 April 2026
 
 package Nomor3;
