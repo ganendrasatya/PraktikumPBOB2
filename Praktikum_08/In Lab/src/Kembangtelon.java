@@ -1,6 +1,6 @@
 //  Nama File : Kembangtelon.java
 //  Deskripsi : Subkelas Kembangtelon yang merupakan jenis kucing dengan implementasi metode gerak() dan bersuara() sesuai karakteristik kucing Kembangtelon.
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat : Ganendra Satya Sindhunata = 24060124120025
 //  Tanggal : 1 Mei 2026
 
 public class Kembangtelon extends Kucing {
