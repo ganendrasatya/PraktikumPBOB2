@@ -1,6 +1,6 @@
 //  Nama File : Kucing.java
 //  Deskripsi : Subkelas Kucing yang merupakan jenis Anabul dengan atribut tambahan bobot, serta implementasi metode gerak() dan bersuara() sesuai karakteristik kucing.
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat : Ganendra Satya Sindhunata = 24060124120025
 //  Tanggal : 1 Mei 2026
 
 public class Kucing extends Anabul {
