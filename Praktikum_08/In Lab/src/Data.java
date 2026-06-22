@@ -1,6 +1,6 @@
 //  Nama File : Data.java
 //  Deskripsi : Program untuk membuat kelas Data yang dapat menyimpan elemen dengan tipe data generik
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat : Ganendra Satya Sindhunagta - 24060124120025
 //  Tanggal : 1 Mei 2026
 
 public class Data<T> {
