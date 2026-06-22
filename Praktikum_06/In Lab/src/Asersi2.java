@@ -1,6 +1,6 @@
 //  Nama File : Asersi2.java
 //  Deskripsi : Program untuk demo asersi yang akan menolak input jari-jari lingkaran yang bernilai nol
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat : Ganendra Satya Sindhunata - 24060124120025
 //  Tanggal : 30 Maret 2026
 
 // PETANYAAN : 
