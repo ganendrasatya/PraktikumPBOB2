@@ -1,6 +1,6 @@
 //  Nama File : Mahasiswa.java
 //  Deskripsi : Program untuk realisasi kelas Mahasiswa dengan atribut NIM, Nama, dan Program Studi, serta berbagai konstruktor untuk inisialisasi objek Mahasiswa.
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat : Ganendra Satya Sindhunata - 24060124120025
 //  Tanggal : 25 April 2026
 
 package Nomor2;
