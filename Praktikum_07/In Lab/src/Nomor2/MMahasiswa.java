@@ -1,6 +1,6 @@
 //  Nama File : MMahasiswa.java
 //  Deskripsi : Program untuk contoh aplikasi kelas Mahasiswa dengan berbagai konstruktor dan metode untuk menampilkan informasi mahasiswa.
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat : Ganendra Satya Sindhunata - 24060124120025
 //  Tanggal : 25 April 2026
 
 package Nomor2;
