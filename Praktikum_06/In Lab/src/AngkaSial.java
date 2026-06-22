@@ -1,7 +1,7 @@
 //  Nama File : AngkaSial.java
 //  Deskripsi : Program penggunaan exception buatan sendiri
 //              Pengenalan klausa 'throw' dan 'throws'
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat : Ganendra Satya Sindhunata - 24060124120025
 //  Tanggal : 30 Maret 2026
 
 // PETANYAAN :
