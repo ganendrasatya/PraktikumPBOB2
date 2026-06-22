@@ -1,6 +1,6 @@
 //  Nama File : Anjing.java
 //  Deskripsi : Program untuk realisasi kelas Anjing yang merupakan subclass dari kelas abstrak Anabul, dengan implementasi metode gerak() dan bersuara() sesuai karakteristik anjing.
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat : Ganendra Satya Sindhunata = 24060124120025
 //  Tanggal : 25 April 2026
 
 public class Anjing extends Anabul {
