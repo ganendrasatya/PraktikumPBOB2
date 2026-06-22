@@ -1,6 +1,6 @@
 //  Nama File : Main.java
 //  Deskripsi : Main class untuk menjalankan program yang mendemonstrasikan penggunaan generik pada kelas, operator, dan larik dengan objek-objek dari kelas Kucing, Anggora, dan Kembangtelon.
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat : Ganendra Satya Sindhunata = 24060124120025
 //  Tanggal : 1 Mei 2026
 
 public class Main {
