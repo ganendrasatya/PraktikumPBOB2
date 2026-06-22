@@ -1,6 +1,6 @@
 //  Nama File : PolimorfismeCoersion.java
 //  Deskripsi : Program untuk mengilustrasikan konsep polimorfisme coercion dalam Java, termasuk konversi tipe data dan operasi pada string dan angka.
-//  Pembuat : Alyssa Shane Kurniawan - 24060124120038
+//  Pembuat : Ganendra Satya Sindhunata - 24060124120025
 //  Tanggal : 25 April 2026
 
 public class PolimorfismeCoersion {
